@@ -1,0 +1,1 @@
+I have created a maths quiz to help young school children that struggle with mathematics. It is created in an engaging way aimed at kids. It consists of a login screen where u can either login as a student or teacher. Credentials are in TeacherInformation.txt which is in TXTFILE directory. It then proceeds to a maths quiz. Created with C#
