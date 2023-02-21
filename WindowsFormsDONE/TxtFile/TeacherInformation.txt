@@ -1,0 +1,9 @@
+teacher1,pass1,0,True
+teacher3,pass3,0,True
+student1,pass1,10,False
+student,pass,10,False
+student2,pass2,9,False
+student5,pass5,9,False
+student6,pass6,10,False
+student7,pass7,10,False
+student10,pass12345,7,False

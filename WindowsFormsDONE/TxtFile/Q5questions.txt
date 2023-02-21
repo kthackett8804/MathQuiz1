@@ -1,0 +1,10 @@
+what is 15 divided by 3?,18,12,#5,2
+What is 20 divided by 2?,22,20,#10,5
+What is 27 divided by 9?,4,5,#3,6
+What is 70 divided by 10?,2,3,#7,8
+What is 18 divided by 9?,10,8,#2,4
+What is 21 divided by 7?,2,4,#3,7
+What is 32 divided by 4?,6,5,#8,10
+What is 24 divided by 4?,28,7,#6,2
+What is 36 divided by 6?,7,5,#6,2
+What is 24 divided by 8?,2,4,#3,7
